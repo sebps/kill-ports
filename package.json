@@ -1,0 +1,18 @@
+{
+  "name": "killports",
+  "version": "1.0.0",
+  "description": "A lightweight library to kill processes listening to a list of ports using cli or nodejs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "sebpsdev",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "bin": {
+    "killports": "cli.js"
+  }
+}
