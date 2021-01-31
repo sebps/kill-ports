@@ -1,12 +1,13 @@
 {
   "name": "killports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight library to kill processes listening to a list of ports using cli or nodejs module",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "sebpsdev",
+  "homepage": "https://github.com/sebpsdev/KillPorts",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
