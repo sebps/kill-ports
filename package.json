@@ -2,7 +2,7 @@
   "name": "killports",
   "version": "1.0.1",
   "description": "A lightweight library to kill processes listening to a list of ports using cli or nodejs module",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
